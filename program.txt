@@ -1,0 +1,11 @@
+
+int square (int a) {
+	int g = a * a;
+	return g;
+}
+
+
+
+int main() {
+	print(square(15));
+}
